@@ -4,4 +4,6 @@ FTP
 
 Function Email{
 email everyone
+also
+Add log that I have emailed
 }
