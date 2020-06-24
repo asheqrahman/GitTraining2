@@ -1,3 +1,7 @@
 Function Print{
 FTP 
 }
+
+Function Email{
+email everyone
+}
